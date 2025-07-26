@@ -125,5 +125,5 @@ Celeb-DF and other open datasets for training data
 👨‍💻 Author
 Chaitanya Kumar
 LinkedIn: https://www.linkedin.com/in/chaitanya-kumar-78a4b524b/
-GitHub: https://github.com/ChaitanyaKumar131
+GitHub: https://github.com/ChaitanyaKumar13
 
